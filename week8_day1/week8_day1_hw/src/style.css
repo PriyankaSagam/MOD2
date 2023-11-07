@@ -1,0 +1,56 @@
+.sidebar{
+    background-color: rgb(255, 0, 200); 
+    grid-row-start: 1;
+    grid-row-end:3 ;
+
+}
+ .container{
+  
+   background-color:rgb(225, 208, 208);
+   height:80vh;
+   width:900px; 
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+   padding: 15px;
+   grid-gap :15px;
+   border-radius: 10px;
+   
+ }
+
+.website{
+    background-color: rgb(22, 116, 230);
+    grid-column-start: 2;
+    grid-column-end:5;
+    text-align: left;
+
+    
+}
+.reviews{
+    background-color: aqua;
+    text-align: left;
+
+}
+.sentiment{
+    background-color: aquamarine;
+    text-align: left;
+
+}
+.average{
+    background-color: rgb(29, 202, 193);
+    text-align: left;
+}
+.web{
+    background-color: rgb(12, 52, 154);
+    height:300px;
+    margin:5em;        
+}
+body{
+    background-color: rgb(7, 44, 59);
+    width: 100%;
+}
+ul{
+    color:rgb(62, 53, 53);
+    text-align: left;
+    
+}
