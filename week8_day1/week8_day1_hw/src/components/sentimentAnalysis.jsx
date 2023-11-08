@@ -4,9 +4,9 @@ function SentimentAnalysis() {
   return (
     <div className="sentiment">
         SentimentAnalysis
-        <ul>960</ul>
-        <ul>122</ul>
-        <ul>321</ul>
+        <p>960</p>
+        <p>122</p>
+        <p>321</p>
     </div>
   )
 }

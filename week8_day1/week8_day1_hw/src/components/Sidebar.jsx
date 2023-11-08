@@ -13,12 +13,12 @@ function Sidebar() {
         <br/>
         <br/>
         <br/>
-        <ul> Dashboard</ul>
-        <ul> Widget</ul>
-        <ul> reviews</ul>
-        <ul> customers </ul>
-        <ul>Online Analysis</ul>
-        <ul>Settings</ul>
+        <p> Dashboard</p>
+        <p> Widget</p>
+        <p> reviews</p>
+        <p> customers </p>
+        <p>Online Analysis</p>
+        <p>Settings</p>
         
     </div>
   )
