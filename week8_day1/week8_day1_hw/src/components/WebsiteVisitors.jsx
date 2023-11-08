@@ -4,7 +4,8 @@ function WebsiteVisitors() {
   return (
     <div className="website">
         WebsiteVisitors
-        <div>821</div>
+        <br/>
+        821
         <div className="web"></div>
     </div>
   )

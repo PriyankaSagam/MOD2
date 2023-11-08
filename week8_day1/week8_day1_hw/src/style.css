@@ -51,6 +51,9 @@ body{
 }
 p{
     color:rgb(62, 53, 53);
-    text-align: left;
+    text-align: center;
     
 }
+/* div{
+    text-align: center;
+} */

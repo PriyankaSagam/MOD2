@@ -4,7 +4,8 @@ function AverageRating() {
   return (
     <div className="average">
         AverageRating
-        <p>4.6</p>
+        <br/>
+        4.6
     </div>
   )
 }
